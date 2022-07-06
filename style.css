@@ -1,4 +1,47 @@
-h1{
-    background: white;
+body{
+  font-family: 'Bebas Neue', cursive;
+font-family: 'Heebo', sans-serif;
+font-family: 'Poppins', sans-serif;
+
+}
+.link-button{
+  color: white;
+  background: orange
+  ;
+  text-decoration: none;
+  background-image: linear-gradient(orange , tomato);
+  font-weight: 700;
+  padding: 10px 25px;
+  border-radius: 10px ;
+
+}
+.top-design{
+
+}
+.bg-text{
+
+  text-align: center;
+background-image: url(images/donation3.jpg);
+background-repeat: no-repeat;
+background-size: 100%;
+background-attachment: fixed;
+height: 100vh;
+width: 100%;
  
+
+
+}
+.bg-img{
+ 
+ 
+  
+
+}
+.header{
+  
+  text-align: center;
+  font-size: 1000;
+  font-weight: 1000;
+  color: white;
+
 }
