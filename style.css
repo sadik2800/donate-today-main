@@ -19,7 +19,6 @@ font-family: 'Poppins', sans-serif;
 
 }
 .bg-text{
-
   text-align: center;
 background-image: url(images/donation3.jpg);
 background-repeat: no-repeat;
@@ -44,4 +43,44 @@ width: 100%;
   font-weight: 1000;
   color: white;
 
+}
+.box1{
+  
+  border: 1px solid gray;
+  margin-left: 2%;
+  border-radius: 10px;
+}
+.middle-design{
+  text-align: center;
+ 
+}
+.flood{
+  color: rgb(176, 210, 239);
+}
+.title{
+  text-align: center;
+  font-size: 40;
+  font-weight: bold;
+
+}
+.flex-box{
+display: flex;
+margin-left: 500px;
+}
+.distance
+{
+
+  padding: 5px;
+}
+.box1:hover{
+  border: 1px solid red;
+  background: rgb(250, 176, 176);
+
+}
+.others{
+  padding-top: 60px;
+  text-align: center;
+}
+.container{
+  text-align: center;
 }
